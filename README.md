@@ -1,5 +1,6 @@
-## 👋 About Me :
-신입 개발자 추성윤입니다!
+## 😀 About Me :
+성장하려고 노력하는 신입 개발자 추성윤입니다:)
+
 
 
 <br/>
@@ -31,6 +32,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📊 GitHub stats
+## 📝 GitHub stats
 ![Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhawk90&theme=graywhite&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redhawk90&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
