@@ -1,5 +1,5 @@
 ## 😀 About Me :
-성장하려고 노력하는 신입 개발자 추성윤입니다:)
+신입 개발자 추성윤입니다:)
 
 
 
@@ -30,6 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-%230167ff?style=for-the-badge&logo=sourcetree&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ## 📝 GitHub stats
